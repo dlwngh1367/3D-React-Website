@@ -205,7 +205,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: '3D React Website',
         description: 'Designed a 3D website using Three.js and React, ensuring accessibility for all users.',
-        link: 'https://master--radiant-choux-178d81.netlify.app',
+        link: 'https://github.com/dlwngh1367/3D-React-Website.git',
     },
     {
         iconUrl: crush,
