@@ -14,12 +14,11 @@ const Projects = () => {
         </h1>
   
         <p className='text-slate-500 mt-2 leading-relaxed'>
-        I am interested in various fields such as IOS development, Java program, web development, database system, and so on.,
-        so I have been working on various personal projects. Various IOS applications have been developed using API, 
-        3rd party libraries, real-time location data, etc., and web programs and websites have been developed using
-         HTML, CSS, JavaScript, PHP, and database systems, etc. Also, while developing various projects using Java, 
-         I made sure that the basics of concept of object-oriented programming were clear. Not only this, 
-         but I also learned how to control data freely using Python. I will attach my personal projects and portfolio below with explanation.
+        I have a keen interest in various fields, including iOS development, Java programming, web development, and database systems. Consequently, I've been actively engaged in numerous personal projects. These include the development of various iOS applications utilizing APIs, 3rd party libraries, and real-time location data. Additionally, I've created web programs and websites using HTML, CSS, JavaScript, PHP, and various database systems.
+
+While working on Java projects, I ensured a strong grasp of object-oriented programming principles. Moreover, I delved into Python to master data manipulation techniques. One of my notable projects involved developing a 3D stereoscopic webpage using React and Three.js.
+
+Feel free to explore the variety of personal projects I've undertaken. Your curiosity and feedback are always appreciated.
         </p>
   
         <div className='flex flex-wrap my-20 gap-16'>
