@@ -125,15 +125,22 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Student",
+        title: "Computer programming student",
         company_name: "Algonquin College",
         icon: algonquin,
         iconBg: "#accbe1",
         date: "May 2022 - Aug 2023",
         points: [
-            "haha",
-            "haha",
-            "haha"        ],
+            "Web development",
+            "Agile/Scrum",
+            "Mobile development",
+            "Networking programming",
+            "Database systems",
+            "Back-End & Front-End development",
+            "Version control systems",
+            "Open source operating systems",
+            "Full-Stack software development"
+              ],
     },
     {
         title: "IOS/Android Developer",
@@ -142,9 +149,11 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "May 2023 - Aug 2023",
         points: [
-            "haha",
-            "haha",
-            "haha"   
+            "Developed mobile apps",
+            "Conducted QA testing and fixed bugs",
+            "Designed UX/UI",
+            "Added additional functionality to the app",
+            "Participated in meetings with clients"  
         ],
     },
     {
@@ -154,9 +163,13 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "Sep 2023 - Current",
         points: [
-            "haha",
-            "haha",
-            "haha"   
+            "2-year diploma in Computer Programming",
+            "Various personal projects",
+            "Working experience as a freelancer" ,
+            "Experience in various group projects",
+            "Strong communication skills",
+            "Team player",
+            "Extensive knowledge of software development"
         ],
     }
 ];
@@ -169,7 +182,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Juho Chat',
         description: `
-        Developed an iOS chatting application that allows mobile users to chat.
+        Developed an iOS chatting application that enables mobile users to engage in real-time conversations, sharing text messages.
         `,
         link: 'https://github.com/dlwngh1367/Juho-Chat',
     },
@@ -177,35 +190,35 @@ export const projects = [
         iconUrl: weather,
         theme: 'btn-back-green',
         name: 'Clima',
-        description: 'Developed an iOS app that allows users to check the weather and other information by utilizing location data and search.',
+        description: 'Developed an iOS app that enables users to check real-time weather updates and other relevant information by leveraging location data and search functionality.',
         link: 'https://github.com/dlwngh1367/Clima',
     },
     {
         iconUrl: data,
         theme: 'btn-back-blue',
         name: 'Data Synthesis Project',
-        description: 'Developed a Python-based data management system with menu-driven options, including record creation, editing, deletion, and visualization through horizontal bar charts. ',
+        description: 'Developed a Python-based data management system featuring menu-driven options, allowing users to create, edit, and delete records, and visualize data through horizontal bar charts.',
         link: 'https://github.com/dlwngh1367/Data-Synthesis-Project',
     },
     {
         iconUrl: web,
         theme: 'btn-back-pink',
         name: '3D React Website',
-        description: 'Designed a 3D React website that is accessible to anyone using Threejs and React.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        description: 'Designed a 3D website using Three.js and React, ensuring accessibility for all users.',
+        link: '',
     },
     {
         iconUrl: crush,
         theme: 'btn-back-black',
         name: 'Chase Your Crush',
-        description: 'Developed an iOS story game application that has different stories depending on the choice of user.',
+        description: 'Developed an iOS story game application with dynamic narratives that change based on the choices of the user.',
         link: 'https://github.com/dlwngh1367/ChaseYourCrush',
     },
     {
         iconUrl: program,
         theme: 'btn-back-yellow',
         name: 'Various Java programs',
-        description: 'Developed various Java programs using advance Gui and OOP concept of Java.',
+        description: 'Developed various Java programs using advanced GUI and OOP concepts in Java.',
         link: 'https://github.com/dlwngh1367/Java-Practice',
     }
 ];

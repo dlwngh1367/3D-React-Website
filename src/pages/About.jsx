@@ -22,8 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Canada, graduated from Algonquin college's 
-          Computer programming degree with a lot of knowledges and experiences in Ottawa.
+        Software Engineer based in Canada, graduated from Algonquin College's Computer Programming program with extensive knowledge and experience in Ottawa.
         </p>
       </div>
 
@@ -50,8 +49,7 @@ const About = () => {
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-             Here's the rundown:
-          </p>
+          I majored in Computer Programming at Algonquin College, located in Ottawa, Canada, and have experience as an iOS/Android developer along with various personal projects. Here's the rundown:          </p>
           </div>
           <div className='mt-12 flex'>
           <VerticalTimeline>
