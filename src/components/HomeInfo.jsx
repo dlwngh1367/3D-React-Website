@@ -15,7 +15,7 @@ const HomeInfo = ({ currentStage }) => {
         A Software Engineer from Republic of Korea 🇰🇷
         <br />
         <br />
-        Mobile📱 , Web 🖥️ , Database 📊 and so on.
+        Mobile📱 , Web 🖥️ , Full-Stack 💻 , Networking 📡, Database 📊, and more.
       </h1>
     );
 
