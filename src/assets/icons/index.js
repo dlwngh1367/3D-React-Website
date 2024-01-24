@@ -38,6 +38,8 @@ import tailwindcss from'./tailwindcss.svg'
 import typescript from'./typescript.svg'
 import juhoflix from'./juhoflix.png'
 import vite from'./vite.svg'
+import threejs from'./threejs.png'
+
 
 
 
