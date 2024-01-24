@@ -37,7 +37,7 @@ import nextAuth from'./nextAuth.png'
 import tailwindcss from'./tailwindcss.svg'
 import typescript from'./typescript.svg'
 import juhoflix from'./juhoflix.png'
-import threejs from'./threejs.png'
+import vite from'./vite.svg'
 
 
 
@@ -80,7 +80,8 @@ export {
     nextAuth,
     typescript,
     juhoflix,
-    threejs
+    threejs,
+    vite
     
 
 

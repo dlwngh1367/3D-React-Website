@@ -34,7 +34,9 @@ import {
     nextAuth,
     typescript,
     juhoflix,
-    threejs
+    threejs,
+    vite
+
 } from "../assets/icons";
 
 export const skills = [
@@ -156,6 +158,11 @@ export const skills = [
     {
         imageUrl: threejs,
         name: "Three.js",
+        type: "Backend",
+    },
+    {
+        imageUrl: vite,
+        name: "Vite",
         type: "Backend",
     },
 ];
