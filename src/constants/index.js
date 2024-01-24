@@ -27,7 +27,14 @@ import {
     xampp,
     cobol,
     ios,
-    react
+    react,
+    tailwindcss,
+    prisma,
+    nextjs,
+    nextAuth,
+    typescript,
+    juhoflix,
+    threejs
 } from "../assets/icons";
 
 export const skills = [
@@ -121,6 +128,36 @@ export const skills = [
         name: "Python",
         type: "Backend",
     },
+    {
+        imageUrl: tailwindcss,
+        name: "tailwindcss",
+        type: "Frontend",
+    },
+    {
+        imageUrl: prisma,
+        name: "prisma",
+        type: "database",
+    },
+    {
+        imageUrl: nextjs,
+        name: "Nextjs",
+        type: "Backend",
+    },
+    {
+        imageUrl: nextAuth,
+        name: "NextAuth",
+        type: "Backend",
+    },
+    {
+        imageUrl: typescript,
+        name: "TypeScript",
+        type: "Backend",
+    },
+    {
+        imageUrl: threejs,
+        name: "Three.js",
+        type: "Backend",
+    },
 ];
 
 export const experiences = [
@@ -177,6 +214,15 @@ export const experiences = [
 
 
 export const projects = [
+    {
+        iconUrl: juhoflix,
+        theme: 'btn-back-red',
+        name: 'Juhoflix',
+        description: `
+        Developed an OTT video streaming website such as Netflix using React, TypeScript, Mongo DB and so on.
+        `,
+        link: '',
+    },
     {
         iconUrl: chat,
         theme: 'btn-back-red',

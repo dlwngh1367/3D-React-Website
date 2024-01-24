@@ -31,6 +31,16 @@ import xampp from './xampp.png'
 import cobol from './cobol.jpg'
 import ios from './ios.png'
 
+import prisma from'./prisma.png'
+import nextjs from'./nextjs.jpeg'
+import nextAuth from'./nextAuth.png'
+import tailwindcss from'./tailwindcss.svg'
+import typescript from'./typescript.svg'
+import juhoflix from'./juhoflix.png'
+import threejs from'./threejs.png'
+
+
+
 
 export {
     css,
@@ -63,7 +73,14 @@ export {
     tuco,
     xampp,
     cobol,
-    ios
+    ios,
+    tailwindcss,
+    prisma,
+    nextjs,
+    nextAuth,
+    typescript,
+    juhoflix,
+    threejs
     
 
 

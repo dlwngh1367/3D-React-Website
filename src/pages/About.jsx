@@ -24,11 +24,16 @@ const About = () => {
         <p>
         Software Engineer based in Canada, graduated from Algonquin College's Computer Programming program with extensive knowledge and experience in Ottawa.
         </p>
+
+        
       </div>
 
       <div className='py-10 flex flex-col'>
         <h3 className='subhead-text'>My Skills</h3>
-
+        
+        <p className='mt-5 flex flex-col gap-3 text-slate-500'>
+        Main skills: JavaScript, TypeScript, HTML, CSS, Tailwind CSS, PHP, React, Next.js, Mongo DB, Prisma, NextAuth.js, Three.js, MySQL, Oracle, Python, Swift, COBOL, Kotlin, Linux, Java, Git, GitHub, Xampp, iOS, Android etc...
+        </p>
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
             <div className='block-container w-20 h-20' key={skill.name}>

@@ -16,7 +16,7 @@ const Projects = () => {
         <p className='text-slate-500 mt-2 leading-relaxed'>
         I have a keen interest in various fields, including iOS development, Java programming, web development, and database systems. Consequently, I've been actively engaged in numerous personal projects. These include the development of various iOS applications utilizing APIs, 3rd party libraries, and real-time location data. Additionally, I've created web programs and websites using HTML, CSS, JavaScript, PHP, and various database systems.
 
-While working on Java projects, I ensured a strong grasp of object-oriented programming principles. Moreover, I delved into Python to master data manipulation techniques. One of my notable projects involved developing a 3D stereoscopic webpage using React and Three.js.
+While working on Java projects, I ensured a strong grasp of object-oriented programming principles. Moreover, I delved into Python to master data manipulation techniques. One of my notable projects involved developing a 3D stereoscopic webpage using React and Three.js. I also have developed video streaming servers such as Netflix using React, Mongo DB, and TypeScript. All users can sign up for membership, and OAuth has been used to enable logging in to Google, Github accounts.
 
 Feel free to explore the variety of personal projects I've undertaken. Your curiosity and feedback are always appreciated.
         </p>
