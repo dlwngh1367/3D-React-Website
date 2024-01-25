@@ -228,7 +228,7 @@ export const projects = [
         description: `
         Developed an OTT video streaming website such as Netflix using React, TypeScript, Mongo DB and so on.
         `,
-        link: '',
+        link: 'https://github.com/dlwngh1367/Juhoflix',
     },
     {
         iconUrl: chat,
