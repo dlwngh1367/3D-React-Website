@@ -187,17 +187,20 @@ export const experiences = [
               ],
     },
     {
-        title: "IOS/Android Developer",
+        title: "Quality Assurance Engineer",
         company_name: "Tuco technologies Inc.",
         icon: tuco,
         iconBg: "#fbc3bc",
-        date: "May 2023 - Aug 2023",
+        date: "May 2023 - Sep 2023",
         points: [
-            "Developed mobile apps",
-            "Conducted QA testing and fixed bugs",
+            "Attended client meetings to gather and document software requirements and address critical issues.",
+            "Conducted QA testing, debugging and fixed bugs",
             "Designed UX/UI",
-            "Added additional functionality to the app",
-            "Participated in meetings with clients"  
+            "Collaborated with development teams to utilize APIs for the seamless loading of diverse JSON-formatted data into the system.",
+            "Generated detailed reports after participating in various tests and developments, highlighting key findings and recommendations." ,
+            "Utilized GitHub version control system for exchanging code with various contributors.",
+            "Accessed and managed data in Firebase database systems to ensure integrity and efficiency.",
+            "Participated in the entire software development life cycle, providing valuable insights to enhance the quality of the product."
         ],
     },
     {
